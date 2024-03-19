@@ -3,4 +3,6 @@
 ## About me
 Escribir sobre nostros...
 
-## Contactme 
+## Contactame 
+
+Hacer el cierre de la presentacion , invitando a contactar
