@@ -13,3 +13,4 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
     -Attention to detail: Being careful about the details of work, ensuring accuracy and quality.
     -Creativity: Generating new ideas and innovative solutions.
     -Leadership: Providing guidance and direction to a team, often taking the initiative on projects.
+    -Time Management: Prioritizing tasks to manage time effectively and meet deadlines.
