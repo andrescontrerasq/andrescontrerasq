@@ -8,7 +8,8 @@ Ingeniero Mecánico (PUCP) con experiencia en áreas de producción, logística 
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
 ## Skills
-    -Teamwork
-    -Adaptability
-    -Attention to detail
-    -Creativity
+    -Teamwork: Working well with others to achieve a common goal, often through collaboration platforms like GitHub.
+    -Adaptability : Being flexible and willing to adjust to new conditions or technologies.
+    -Attention to detail: Being careful about the details of work, ensuring accuracy and quality.
+    -Creativity: Generating new ideas and innovative solutions.
+    -Leadership: Providing guidance and direction to a team, often taking the initiative on projects.
