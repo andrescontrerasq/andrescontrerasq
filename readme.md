@@ -8,8 +8,8 @@ Ingeniero Mecánico (PUCP) con experiencia en áreas de producción, logística 
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
 ## Hobbies
--Coding Personal Projects
--Reading
--Hiking and Outdoors Activities
--Crafting
+-Coding Personal Projects: Creating personal apps, websites, or tools.
+-Reading: Enjoying literature, technical books, or blogs to learn new things.
+-Hiking and Outdoors Activities: Enjoying nature through hiking, camping, or biking.
+-Crafting: DIY projects, knitting, or handcrafting items.
 -Football
