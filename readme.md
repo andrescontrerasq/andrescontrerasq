@@ -12,6 +12,7 @@ I am now keen to leverage my skills in a technology-driven setting, where I can 
 
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+<<<<<<< HEAD
 ## Skills
 - Teamwork: Working well with others to achieve a common goal, often through collaboration platforms like GitHub.
 - Adaptability : Being flexible and willing to adjust to new conditions or technologies.
@@ -33,3 +34,9 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 -   HTML
 -   CSS
 -   JS
+=======
+## Languages
+  - English
+  - Spanish
+  - French
+>>>>>>> languages
