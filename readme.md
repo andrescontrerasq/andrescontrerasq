@@ -28,4 +28,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Crafting: DIY projects, knitting, or handcrafting items.
 - Football
 
+## Technologies 
 
+-   HTML
+-   CSS
+-   JS
