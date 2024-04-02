@@ -12,6 +12,14 @@ I am now keen to leverage my skills in a technology-driven setting, where I can 
 
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+## Skills
+- Teamwork: Working well with others to achieve a common goal, often through collaboration platforms like GitHub.
+- Adaptability : Being flexible and willing to adjust to new conditions or technologies.
+- Attention to detail: Being careful about the details of work, ensuring accuracy and quality.
+- Creativity: Generating new ideas and innovative solutions.
+- Leadership: Providing guidance and direction to a team, often taking the initiative on projects.
+- Time Management: Prioritizing tasks to manage time effectively and meet deadlines.
+
 ## Hobbies
 
 - Coding Personal Projects: Creating personal apps, websites, or tools.
@@ -19,3 +27,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Hiking and Outdoors Activities: Enjoying nature through hiking, camping, or biking.
 - Crafting: DIY projects, knitting, or handcrafting items.
 - Football
+
+
+
